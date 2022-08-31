@@ -1,4 +1,3 @@
-/vendor/lib/modules/bootinfo.ko:
 /vendor/lib/modules/mbhc_dlkm.ko:
 /vendor/lib/modules/q6_notifier_dlkm.ko: /vendor/lib/modules/q6_pdr_dlkm.ko
 /vendor/lib/modules/platform_dlkm.ko: /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko /vendor/lib/modules/snd_event_dlkm.ko
@@ -20,7 +19,7 @@
 /vendor/lib/modules/snd_event_dlkm.ko:
 /vendor/lib/modules/qca_cld3_wlan.ko:
 /vendor/lib/modules/wsa881x_analog_dlkm.ko: /vendor/lib/modules/wcd_core_dlkm.ko
-/vendor/lib/modules/machine_dlkm.ko: /vendor/lib/modules/fs19xx_dlkm.ko /vendor/lib/modules/wcd938x_dlkm.ko /vendor/lib/modules/wcd937x_dlkm.ko /vendor/lib/modules/mbhc_dlkm.ko /vendor/lib/modules/wcd9xxx_dlkm.ko /vendor/lib/modules/wcd_core_dlkm.ko /vendor/lib/modules/bolero_cdc_dlkm.ko /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko /vendor/lib/modules/snd_event_dlkm.ko /vendor/lib/modules/swr_dlkm.ko
+/vendor/lib/modules/machine_dlkm.ko: /vendor/lib/modules/fs19xx_dlkm.ko /vendor/lib/modules/aw882xx_dlkm.ko /vendor/lib/modules/wcd938x_dlkm.ko /vendor/lib/modules/wcd937x_dlkm.ko /vendor/lib/modules/mbhc_dlkm.ko /vendor/lib/modules/wcd9xxx_dlkm.ko /vendor/lib/modules/wcd_core_dlkm.ko /vendor/lib/modules/bolero_cdc_dlkm.ko /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko /vendor/lib/modules/snd_event_dlkm.ko /vendor/lib/modules/swr_dlkm.ko
 /vendor/lib/modules/swr_dlkm.ko:
 /vendor/lib/modules/native_dlkm.ko: /vendor/lib/modules/platform_dlkm.ko /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko /vendor/lib/modules/snd_event_dlkm.ko
 /vendor/lib/modules/bt_fm_slim.ko: /vendor/lib/modules/btpower.ko
@@ -34,5 +33,5 @@
 /vendor/lib/modules/tx_macro_dlkm.ko: /vendor/lib/modules/swr_ctrl_dlkm.ko /vendor/lib/modules/wcd_core_dlkm.ko /vendor/lib/modules/bolero_cdc_dlkm.ko /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko /vendor/lib/modules/snd_event_dlkm.ko /vendor/lib/modules/swr_dlkm.ko
 /vendor/lib/modules/rmnet_shs.ko: /vendor/lib/modules/rmnet_core.ko /vendor/lib/modules/rmnet_ctl.ko
 /vendor/lib/modules/wcd_core_dlkm.ko:
-/vendor/lib/modules/fs19xx_dlkm.ko: /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko /vendor/lib/modules/snd_event_dlkm.ko
+/vendor/lib/modules/fs19xx_dlkm.ko: /vendor/lib/modules/aw882xx_dlkm.ko /vendor/lib/modules/q6_dlkm.ko /vendor/lib/modules/apr_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko /vendor/lib/modules/snd_event_dlkm.ko
 /vendor/lib/modules/ir-spi.ko:
