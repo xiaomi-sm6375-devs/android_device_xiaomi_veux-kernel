@@ -28,6 +28,7 @@ rpm-smd.ko
 qcom_hwspinlock.ko
 crypto-qti-hwkm.ko
 goodix_core.ko
+usbtouchscreen.ko
 clk-smd-rpm.ko
 smem.ko
 aw8624.ko
