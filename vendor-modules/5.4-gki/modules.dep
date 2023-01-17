@@ -1,5 +1,6 @@
 /vendor/lib/modules/5.4-gki/qsee_ipc_irq.ko:
 /vendor/lib/modules/5.4-gki/qcom_pm8008-regulator.ko:
+/vendor/lib/modules/5.4-gki/nq-nci.ko:
 /vendor/lib/modules/5.4-gki/xhci-plat-hcd.ko: /vendor/lib/modules/5.4-gki/xhci-hcd.ko
 /vendor/lib/modules/5.4-gki/qcom-smb1398-charger.ko:
 /vendor/lib/modules/5.4-gki/phy-qcom-ufs-qmp-v4-lahaina.ko:

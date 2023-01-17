@@ -1,5 +1,4 @@
 /lib/modules/5.4-gki/clk-dummy.ko: /lib/modules/5.4-gki/clk-qcom.ko /lib/modules/5.4-gki/proxy-consumer.ko
-/lib/modules/5.4-gki/nq-nci.ko:
 /lib/modules/5.4-gki/qpnp-power-on.ko:
 /lib/modules/5.4-gki/goodix_core.ko:
 /lib/modules/5.4-gki/xm_adapter_class.ko:

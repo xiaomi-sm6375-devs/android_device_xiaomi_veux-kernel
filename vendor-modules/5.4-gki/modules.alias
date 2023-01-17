@@ -3,6 +3,8 @@ alias of:N*T*Cqcom,sm8150-qsee-irq qsee_ipc_irq
 alias of:N*T*Cqcom,sm8150-qsee-irqC* qsee_ipc_irq
 alias of:N*T*Cqcom,kona-qsee-irq qsee_ipc_irq
 alias of:N*T*Cqcom,kona-qsee-irqC* qsee_ipc_irq
+alias of:N*T*Cqcom,sn-nci nq_nci
+alias of:N*T*Cqcom,sn-nciC* nq_nci
 alias platform:xhci-hcd xhci_plat_hcd
 alias of:N*T*Cgeneric-xhci xhci_plat_hcd
 alias of:N*T*Cgeneric-xhciC* xhci_plat_hcd

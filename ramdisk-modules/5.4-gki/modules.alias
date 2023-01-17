@@ -1,8 +1,6 @@
 # Aliases extracted from modules themselves.
 alias of:N*T*Cqcom,dummycc clk_dummy
 alias of:N*T*Cqcom,dummyccC* clk_dummy
-alias of:N*T*Cqcom,sn-nci nq_nci
-alias of:N*T*Cqcom,sn-nciC* nq_nci
 alias of:N*T*Cgoodix,gt9896 goodix_core
 alias of:N*T*Cgoodix,gt9896C* goodix_core
 alias i2c:gtx8 goodix_core
